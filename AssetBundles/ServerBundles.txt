@@ -1,0 +1,88 @@
+{
+    "bundles": [
+        {
+            "nameDisplayed": "Foot",
+            "description": "A Model Auto-Generated with DICOM Director and post-processed.",
+            "bundleName": "dicom director/dicom foot",
+            "bundleID": "508ddff6-58e1-4d12-a0b4-48bc54c3edb0",
+            "fileOwner": "DICOM_Director",
+            "version": 0,
+            "polycount": 153362,
+            "_lastUpdateJson": "",
+            "_lastViewedJson": "",
+            "previewSprite": {
+                "instanceID": 0
+            }
+        },
+        {
+            "nameDisplayed": "Farouk Spine",
+            "description": "A model auto-generated with DICOM Director",
+            "bundleName": "dicom director/farouk spine",
+            "bundleID": "7134e142-afb9-4833-b8f0-ebb0a8d0f191",
+            "fileOwner": "DICOM_Director",
+            "version": 0,
+            "polycount": 3197580,
+            "_lastUpdateJson": "",
+            "_lastViewedJson": "",
+            "previewSprite": {
+                "instanceID": 0
+            }
+        },
+        {
+            "nameDisplayed": "Backup Engine",
+            "description": "An engine on blocks, no color or textures.",
+            "bundleName": "spheregen/backup engine",
+            "bundleID": "9b65d869-7827-4038-afa0-d729bcbc96c9",
+            "fileOwner": "SphereGen",
+            "version": 0,
+            "polycount": 133805,
+            "_lastUpdateJson": "",
+            "_lastViewedJson": "",
+            "previewSprite": {
+                "instanceID": 0
+            }
+        },
+        {
+            "nameDisplayed": "Chrysler Building",
+            "description": "The Chrysler Building is an Art Deco–style skyscraper located in New York City.",
+            "bundleName": "spheregen/chrysler building",
+            "bundleID": "3014583c-f885-499a-b025-03c03442f330",
+            "fileOwner": "SphereGen",
+            "version": 0,
+            "polycount": 60628,
+            "_lastUpdateJson": "",
+            "_lastViewedJson": "",
+            "previewSprite": {
+                "instanceID": 0
+            }
+        },
+        {
+            "nameDisplayed": "Lawn Mower",
+            "description": "A lawn mower made for a game",
+            "bundleName": "spheregen/lawn mower",
+            "bundleID": "45e70f71-a71c-4719-8f5b-91b548f3232d",
+            "fileOwner": "Other",
+            "version": 0,
+            "polycount": 1996,
+            "_lastUpdateJson": "",
+            "_lastViewedJson": "",
+            "previewSprite": {
+                "instanceID": 0
+            }
+        },
+        {
+            "nameDisplayed": "Wrench",
+            "description": "A wrench made for the 2018 Global Game Jam",
+            "bundleName": "spheregen/wrench",
+            "bundleID": "610bb49f-7bc5-43ce-b462-5d76ea0bf5c3",
+            "fileOwner": "Other",
+            "version": 0,
+            "polycount": 442,
+            "_lastUpdateJson": "",
+            "_lastViewedJson": "",
+            "previewSprite": {
+                "instanceID": 0
+            }
+        }
+    ]
+}

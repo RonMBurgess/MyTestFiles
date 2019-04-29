@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 577276169
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: spheregen/chrysler building
+      Dependencies: {}
+    Info_1:
+      Name: dicom director/dicom foot
+      Dependencies: {}
+    Info_2:
+      Name: dicom director/farouk spine
+      Dependencies: {}
+    Info_3:
+      Name: spheregen/backup engine
+      Dependencies: {}
+    Info_4:
+      Name: spheregen/lawn mower
+      Dependencies: {}
+    Info_5:
+      Name: spheregen/wrench
+      Dependencies: {}
